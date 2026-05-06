@@ -1,47 +1,52 @@
 # Olá, eu sou Matheus Sousa
 
-Sou Desenvolvedor Web e Dados, com foco em JavaScript, TypeScript, SQL e ETL.
+Desenvolvedor Web e Dados, com foco em JavaScript, TypeScript, SQL e ETL.
 
-Tenho direcionado meus estudos e projetos para criação de soluções que envolvem desenvolvimento web, manipulação de dados, automações, integração de informações e construção de relatórios.
+Tenho direcionado meus estudos e projetos para o desenvolvimento de soluções que envolvem APIs, automação de processos, manipulação de dados, consultas SQL e construção de relatórios.
 
-Atualmente, venho desenvolvendo projetos práticos para fortalecer minha base em programação, banco de dados e processos de tratamento de dados.
+Minha experiência profissional em rotinas financeiras e administrativas contribuiu para uma visão prática sobre conferência de informações, organização de dados, validação de registros e melhoria de processos internos.
 
-## Foco atual
+## Tecnologias em foco
 
 - JavaScript
 - TypeScript
-- SQL
-- ETL
 - Node.js
+- SQL
 - HTML e CSS
 - Git e GitHub
+- ETL
 - Banco de Dados
 - Análise de Dados
 
-## Projetos em destaque
+## Projeto em destaque
 
 ### Projetos de Dados e Analytics
 
-Repositório com projetos práticos voltados para rotinas de dados, incluindo SQL Server, ETL com Python, restore de bancos e indicadores para relatórios.
+Repositório com projetos práticos voltados para rotinas de dados, integração, tratamento de informações e relatórios.
 
-Principais projetos:
+Inclui projetos com:
 
-- **Atlas Comercial SQL**  
-  Projeto em SQL Server para criação de uma base analítica com tabelas, views, procedures e validações de qualidade.
-
-- **Fluxo Pedidos ETL**  
-  Pipeline de ETL para leitura, validação, tratamento e carga de dados de pedidos.
-
-- **Sentinela Restore DB**  
-  Playbook com scripts e documentação para rotinas de restore em diferentes bancos de dados.
-
-- **Farol KPIs**  
-  Consultas e especificações para criação de indicadores e dashboards.
+- SQL Server e T-SQL
+- ETL com Python
+- Restore de bancos de dados
+- Consultas analíticas
+- Indicadores para dashboards
 
 Acesse o repositório:  
-https://github.com/matheusousaf/projetos-dados-analytics
+[projetos-dados-analytics](https://github.com/matheusousaf/projetos-dados-analytics)
 
-## Tecnologias
+## Em desenvolvimento
 
-```text
-JavaScript | TypeScript | Node.js | SQL | SQL Server | Python | SQLite | HTML | CSS | Git | GitHub | ETL
+Atualmente estou aprofundando meus estudos em:
+
+- Desenvolvimento web com JavaScript e TypeScript
+- APIs com Node.js
+- Consultas e modelagem SQL
+- Processos de ETL
+- Integração e tratamento de dados
+- Relatórios e indicadores
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/matheus-s-42458727a](https://www.linkedin.com/in/matheus-s-42458727a)
+- GitHub: [github.com/matheusousaf](https://github.com/matheusousaf)
