@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Sousa</h1>
 
 <p>
-Passionate about web development, data workflows and process automation, ready to build practical solutions and keep learning through real projects.
+I am driven by technology, data and continuous learning, always looking for practical ways to solve problems and improve processes.
 </p>
 
 ## Languages and Tools
