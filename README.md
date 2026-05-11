@@ -17,6 +17,5 @@ I am driven by technology, data and continuous learning, always looking for prac
   <img src="https://img.shields.io/badge.GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## How to reach me
 
 📫 **How to reach me:** [matheus2434@hotmail.com](mailto:matheus2434@hotmail.com)
