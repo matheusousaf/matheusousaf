@@ -1,52 +1,22 @@
-# Olá, eu sou Matheus Sousa
+<h1 align="center">Hi 👋, I'm Matheus Sousa</h1>
 
-Desenvolvedor Web e Dados, com foco em JavaScript, TypeScript, SQL e ETL.
+<p>
+Passionate about web development, data workflows and process automation, ready to build practical solutions and keep learning through real projects.
+</p>
 
-Tenho direcionado meus estudos e projetos para o desenvolvimento de soluções que envolvem APIs, automação de processos, manipulação de dados, consultas SQL e construção de relatórios.
+## Languages and Tools
 
-Minha experiência profissional em rotinas financeiras e administrativas contribuiu para uma visão prática sobre conferência de informações, organização de dados, validação de registros e melhoria de processos internos.
+<p>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge.NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge.HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge.CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge.SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge.MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge.GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-## Tecnologias em foco
+## How to reach me
 
-- JavaScript
-- TypeScript
-- Node.js
-- SQL
-- HTML e CSS
-- Git e GitHub
-- ETL
-- Banco de Dados
-- Análise de Dados
-
-## Projeto em destaque
-
-### Projetos de Dados e Analytics
-
-Repositório com projetos práticos voltados para rotinas de dados, integração, tratamento de informações e relatórios.
-
-Inclui projetos com:
-
-- SQL Server e T-SQL
-- ETL com Python
-- Restore de bancos de dados
-- Consultas analíticas
-- Indicadores para dashboards
-
-Acesse o repositório:  
-[projetos-dados-analytics](https://github.com/matheusousaf/projetos-dados-analytics)
-
-## Em desenvolvimento
-
-Atualmente estou aprofundando meus estudos em:
-
-- Desenvolvimento web com JavaScript e TypeScript
-- APIs com Node.js
-- Consultas e modelagem SQL
-- Processos de ETL
-- Integração e tratamento de dados
-- Relatórios e indicadores
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/matheus-s-42458727a](https://www.linkedin.com/in/matheus-s-42458727a)
-- GitHub: [github.com/matheusousaf](https://github.com/matheusousaf)
+📫 **How to reach me:** [matheus2434@hotmail.com](mailto:matheus2434@hotmail.com)
